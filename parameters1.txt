@@ -1,0 +1,18 @@
+name_mongodb:
+googleads
+password_mongodb:
+1q2w3e4r5t
+begin date:
+20.05.2020
+end date:
+30.05.2020
+bd_result_name:
+bd_result_rus
+url:
+345
+town:
+0
+bd_towns:
+towns
+bd_urls_and_ADSacc:
+urls_rus_bad
